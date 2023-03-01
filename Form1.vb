@@ -4,6 +4,7 @@
         lblStateAmount.Text = ""
         lblFICAAmount.Text = ""
         lblNetPaycheckIncome.Text = ""
+        txtGrossPay.Focus()
     End Sub
 
     Private Sub Compute_Click(sender As Object, e As EventArgs) Handles btnCompute.Click

@@ -113,7 +113,7 @@ Partial Class frmPayrollCalculator
         Me.txtGrossPay.Multiline = True
         Me.txtGrossPay.Name = "txtGrossPay"
         Me.txtGrossPay.Size = New System.Drawing.Size(112, 36)
-        Me.txtGrossPay.TabIndex = 7
+        Me.txtGrossPay.TabIndex = 0
         '
         'Label2
         '
